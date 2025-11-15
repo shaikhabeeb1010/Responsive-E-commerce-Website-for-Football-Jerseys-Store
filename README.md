@@ -6,7 +6,7 @@ A fully responsive e-commerce website specializing in authentic football jerseys
 
 ## 🚀 Live Demo
 
-[**View Live Website**](https://your-username.github.io/football-jerseys-store/)
+[**View Live Website**](https://shaikhabeeb1010.github.io/football-jerseys-store/)
 
 ## 📋 Project Overview
 
@@ -146,10 +146,9 @@ Modify `css/style.css` for custom styles:
 
 ## 📞 Contact
 
-**Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- Email: your.email@example.com
-- Portfolio: your-portfolio-link
+**SHAIK HABEEB**
+- GitHub: [@shaikhabeeb1010](https://github.com/shaikhabeeb1010)
+- Email: shaikhabeeb8671@gmail.com
 
 ## 📄 License
 
@@ -160,12 +159,3 @@ This project is open source and available under the [MIT License](LICENSE).
 **⭐ If you find this project helpful, please give it a star!**
 
 ---
-
-This README will make your project look very professional on GitHub! 
-
-**Now you can:**
-1. Copy this content
-2. Paste it into your README file on GitHub
-3. Update the "your-username" parts with your actual GitHub username
-
-Would you like me to help you paste this into your GitHub repository, or shall we continue with the repository creation process?# Responsive-E-commerce-Website-for-Football-Jerseys-Store
