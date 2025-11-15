@@ -104,7 +104,19 @@ To run this project locally:
 
 ## 📸 Screenshots
 
-*(You can add screenshots later)*
+## 📸 Screenshots
+
+### Desktop View
+| Homepage | Products Page | Shopping Cart |
+|----------|---------------|---------------|
+| ![Homepage](images/screenshots/homepage-screenshot.png) | ![Products](images/screenshots/products-page-screenshot.png) | ![Cart](images/screenshots/shopping-cart-screenshot.png) |
+
+### Mobile View
+![Mobile View](images/screenshots/mobile-view-screenshot.png)
+
+### Checkout Process
+![Checkout](images/screenshots/checkout-screenshot.png)
+
 - **Homepage**: Featured products and hero section
 - **Products Page**: Filterable product grid
 - **Cart Page**: Interactive shopping cart
