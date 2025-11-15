@@ -1,0 +1,70 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "FC Barcelona Home Jersey 2024",
+            "price": 89.99,
+            "image": "images/barcelona-home.jpg",
+            "club": "FC Barcelona",
+            "type": "home",
+            "sizes": ["S", "M", "L", "XL"],
+            "description": "Official 2024 home jersey with moisture-wicking technology.",
+            "featured": true
+        },
+        {
+            "id": 2,
+            "name": "Real Madrid Away Jersey 2024",
+            "price": 84.99,
+            "image": "images/realmadrid-away.jpg",
+            "club": "Real Madrid",
+            "type": "away",
+            "sizes": ["S", "M", "L", "XL"],
+            "description": "Official 2024 away jersey with advanced ventilation.",
+            "featured": true
+        },
+        {
+            "id": 3,
+            "name": "Manchester United Third Kit 2024",
+            "price": 79.99,
+            "image": "images/manutd-third.jpg",
+            "club": "Manchester United",
+            "type": "third",
+            "sizes": ["S", "M", "L"],
+            "description": "Limited edition third kit with unique design.",
+            "featured": false
+        },
+        {
+            "id": 4,
+            "name": "Liverpool Home Jersey 2024",
+            "price": 87.99,
+            "image": "images/liverpool-home.jpg",
+            "club": "Liverpool FC",
+            "type": "home",
+            "sizes": ["S", "M", "L", "XL"],
+            "description": "Classic red home jersey with modern fit.",
+            "featured": true
+        },
+        {
+            "id": 5,
+            "name": "Bayern Munich Home Jersey 2024",
+            "price": 82.99,
+            "image": "images/bayern-home.jpg",
+            "club": "Bayern Munich",
+            "type": "home",
+            "sizes": ["M", "L", "XL"],
+            "description": "Traditional red home jersey with premium finish.",
+            "featured": false
+        },
+        {
+            "id": 6,
+            "name": "PSG Away Jersey 2024",
+            "price": 85.99,
+            "image": "images/psg-away.jpg",
+            "club": "Paris Saint-Germain",
+            "type": "away",
+            "sizes": ["S", "M", "L", "XL"],
+            "description": "Stylish away jersey with unique pattern design.",
+            "featured": true
+        }
+    ]
+}
